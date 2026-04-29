@@ -1,8 +1,8 @@
-# bitgrad 📉
+# bitgrad
 
 A minimalist, pure-NumPy autograd engine for **1.58-bit (Ternary) Neural Networks**.
 
-## 🚀 Core Specs
+## Core Specs
 
 - **Weights:** Restricted to {-1, 0, 1}.
 - **Engine:** Custom micro-autograd with Straight-Through Estimator (STE).
